@@ -332,6 +332,11 @@ struct vtime {
 	u64			gtime;
 };
 
+
+struct sched_param {
+	int sched_priority;
+};
+
 /*
  * Utilization clamp constraints.
  * @UCLAMP_MIN:	Minimum utilization
