@@ -306,6 +306,7 @@ static struct inode_security_struct *backing_inode_security(struct dentry *dentr
 
 	__inode_security_revalidate(inode, dentry, true);
 	return selinux_inode(inode);
+
 }
 
 static void inode_free_security(struct inode *inode)
