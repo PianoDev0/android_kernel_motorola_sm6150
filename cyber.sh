@@ -2,7 +2,7 @@
 #
 # Cybertron Kernel Build Script (cyber.sh)
 # Targets: Motorola SM6150 (Moto G40/G60 [hanoip] / Motorola One Fusion+ [liber])
-# Base: Linux 4.14.357-openela
+# Base: Linux 4.14.357
 # Maintainer: cool585 (DhineshCool)
 #
 
